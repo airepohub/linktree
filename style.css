@@ -9,7 +9,7 @@ html {
     margin: 0;
     hight: 100%;
     
-    background-image: url('/images/sky.png');
+    background-image: url('https://raw.githubusercontent.com/airepohub/linktree/main/images/sky.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
