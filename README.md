@@ -1,7 +1,7 @@
 # Linktree:sparkles:
 This is a free (and easy to use) alternative to linktree 
 <div class = "coffee">
- <a class = "link" href="https://www.buymeacoffee.com/alisa.algo" target="_blank">
+ <a class = "link" href="https://ko-fi.com/airepohub" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" 
        style="height: 40px !important;width: 144px !important;">
  </a>
